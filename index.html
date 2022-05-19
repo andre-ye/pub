@@ -3,16 +3,14 @@ layout: default
 title: Home
 ---
 
-
+Articles - 
 
 <div class="posts">
   <em>
   {% for post in paginator.posts %}
       <li>
-        <a href="{{ post.url | absolute_url }}">
-          {{ post.title }}
-        </a>
-    </li>
+        <a href="{{ post.url | absolute_url }}" target="_blank">{{ post.title }}</a>
+      </li>
   {% endfor %}
   </em>
 </div>
