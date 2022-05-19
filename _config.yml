@@ -2,8 +2,8 @@
 title:               I2 Pub
 tagline:             'Interactive Intelligence'
 description:         'Articles on AI, neuroscience, philosophy.'
-url:                 https://interactive-intelligence.github.io/pub
-baseurl:             ''
+url:                 https://interactive-intelligence.github.io
+baseurl:             /pub
 paginate:            5
 permalink:           pretty
 
