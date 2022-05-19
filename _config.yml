@@ -1,7 +1,7 @@
 # Setup
 title:               I2 Pub
-tagline:             'Pub - Interactive Intelligence'
-description:         'Articles on .'
+tagline:             'Interactive Intelligence'
+description:         'Articles on AI, neuroscience, philosophy.'
 url:                 https://interactive-intelligence.github.io/pub
 baseurl:             ''
 paginate:            5
