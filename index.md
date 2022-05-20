@@ -29,6 +29,7 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
           <li>
             <a href="{{ post.url | absolute_url }}" target="_blank">{{ post.title }}</a>
           </li>
+        {% endif %}
       {% endfor %}
       </em>
   {% endfor %}
