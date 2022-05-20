@@ -39,13 +39,13 @@ View all articles below. Articles open in a new tab. Or, filter by <a href="#fil
 
 <h2>Filter by Author</h2>
 <a name="filter-by-author"></a>
-{% assign tags =  site.posts | map: 'author' | join: ','  | split: ',' | uniq %}
+{% assign authors =  site.posts | map: 'author' | join: ','  | split: ',' | uniq %}
 <div class="posts">
-  {% for tag in tags %}
-      {{ tag }}
+  {% for author in authors %}
+      {{ author }}
       <em>
       {% for post in paginator.posts %}
-        {% if post.topic == tag %}
+        {% if post.author == author %}
           <li>
             <a href="{{ post.url | absolute_url }}" target="_blank">{{ post.title }}</a>
           </li>
