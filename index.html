@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-View all articles below. Articles open in a new tab. Or, filter by [topic](#filter-by-topic) and [author](#filter-by-author).
+View all articles below. Articles open in a new tab. Or, filter by <a href="#filter-by-topic">topic</a> and <a href="#filter-by-author">author</a>.
 
 <div class="posts">
   <em>
@@ -15,9 +15,10 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
   </em>
 </div>
 
----
+<br>
 
-## Filter by Topic
+<h2>Filter by Topic</h2>
+<a name="filter-by-topic"></a>
 {% assign tags =  site.posts | map: 'topic' | join: ','  | split: ',' | uniq %}
 <div class="posts">
   {% for tag in tags %}
@@ -34,23 +35,22 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
   {% endfor %}
 </div>
 
----
+<hr>
 
-## Filter by Author
-
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->
+<h2>Filter by Author</h2>
+<a name="filter-by-author"></a>
+{% assign tags =  site.posts | map: 'author' | join: ','  | split: ',' | uniq %}
+<div class="posts">
+  {% for tag in tags %}
+      {{ tag }}
+      <em>
+      {% for post in paginator.posts %}
+        {% if post.topic == tag %}
+          <li>
+            <a href="{{ post.url | absolute_url }}" target="_blank">{{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </em>
+  {% endfor %}
+</div>
