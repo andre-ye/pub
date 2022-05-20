@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Troubled Reality: Deconstructionism in Black Mirror's "Hang the DJ"
+title: A Troubled Reality - Deconstructionism in Black Mirror's "Hang the DJ"
 author: Andre
 date: May 19th, 2020
 topic: Philosophy
