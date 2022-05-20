@@ -19,7 +19,7 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
 
 ## Filter by Topic
 
-<div class="posts">
+<!-- <div class="posts">
   {% assign tags =  site.posts | where: 'published', 'true' | map: 'topic' | join: ','  | split: ',' | uniq %}
   {% for tag in tags %}
       {{ tag }}
@@ -33,7 +33,7 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
       {% endfor %}
       </em>
   {% endfor %}
-</div>
+</div> -->
 
 ---
 
