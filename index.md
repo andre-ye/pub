@@ -17,7 +17,7 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
 
 ---
 
-## Filter by Topic
+<!-- ## Filter by Topic -->
 
 <!-- <div class="posts">
   {% assign tags =  site.posts | where: 'published', 'true' | map: 'topic' | join: ','  | split: ',' | uniq %}
