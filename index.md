@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-View articles below. Articles open in a new tab.
+View all articles below. Articles open in a new tab. Or, filter by [topic](#filter-by-topic) and [author](#filter-by-author).
 
 <div class="posts">
   <em>
@@ -14,6 +14,29 @@ View articles below. Articles open in a new tab.
   {% endfor %}
   </em>
 </div>
+
+---
+
+## Filter by Topic
+
+<div class="posts">
+  {% assign tags =  site.posts | where: 'published', 'true' | map: 'topic' | join: ','  | split: ',' | uniq %}
+  {% for tag in tags %}
+      {{ tag }}
+      <em>
+      {% for post in paginator.posts %}
+        {% if post.topic == tag %}
+          <li>
+            <a href="{{ post.url | absolute_url }}" target="_blank">{{ post.title }}</a>
+          </li>
+      {% endfor %}
+      </em>
+  {% endfor %}
+</div>
+
+---
+
+## Filter by Author
 
 <!-- <div class="pagination">
   {% if paginator.next_page %}
