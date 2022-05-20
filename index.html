@@ -18,9 +18,8 @@ View all articles below. Articles open in a new tab. Or, filter by [topic](#filt
 ---
 
 ## Filter by Topic
-
+{% assign tags =  site.posts | map: 'topic' | join: ','  | split: ',' | uniq %}
 <div class="posts">
-  {% assign tags =  site.posts | where: 'published', 'true' | map: 'topic' | join: ','  | split: ',' | uniq %}
   {% for tag in tags %}
       {{ tag }}
       <em>
