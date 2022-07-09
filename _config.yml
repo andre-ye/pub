@@ -1,17 +1,17 @@
 # Setup
-title:               I2 Pub
-tagline:             'Interactive Intelligence'
-description:         'Articles on AI, neuroscience, philosophy.'
-url:                 https://interactive-intelligence.github.io
+title:               Andre Ye
+tagline:             'Writing and Ideas'
+description:         'Writing and Ideas.'
+url:                 https://andre-ye.github.io
 baseurl:             /pub
 paginate:            5
 permalink:           pretty
 
-# # About/contact
-# author:
-#   name:              Mark Otto
-#   url:               https://twitter.com/mdo
-#   email:             markdotto@gmail.com
+# About/contact
+author:
+  name:              Andre Ye
+  url:               https://andre-ye.github.io
+  email:             andre-ye@uw.edu
 
 # Gems
 plugins:
