@@ -5,8 +5,6 @@ date: July 9th, 2022
 topic: Review
 ---
 
-# *Aesthetics Equals Politics*
-
-## New Discourses Across Art, Architecture, and Philosophy
+Review and notes on *Aesthetics Equals Politics: New Discourses Across Art, Architecture, and Philosophy.*
 
 Placeholder
