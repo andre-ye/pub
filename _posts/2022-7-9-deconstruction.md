@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Deconstruction, David J. Gunkel
+title: Deconstruction, Gunkel
 date: July 9th, 2022
 topic: Review
 ---
 
-A brilliantly written introduction of deconstruction, with examples, history, and lots of cautionary notes.
+A review and notes on *Deconstruction* by David J. Gunkel.
+
+*Verdict*: A brilliantly written introduction of deconstruction, with examples, history, and lots of cautionary notes.
 
 Deconstruction as a 'strategy' is composed of the following two key steps, given a binary opposition which is unequal in weight by 'default':
 1. *Inversion.* We begin a playful act of subversive deconstruction by considering the inversion of prioritization - to place the concept which is at the bottom by default on top, and its opposite on top by default instead on the bottom. This encourages us to begin breaking down the binary opposition.
