@@ -1,7 +1,7 @@
 # Setup
 title:               Andre Ye
-tagline:             'Writing and Ideas'
-description:         'Writing and Ideas.'
+tagline:             ''
+description:         ''
 url:                 https://andre-ye.github.io
 baseurl:             /pub
 paginate:            1000
