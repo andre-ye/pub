@@ -4,7 +4,7 @@ tagline:             'Writing and Ideas'
 description:         'Writing and Ideas.'
 url:                 https://andre-ye.github.io
 baseurl:             /pub
-paginate:            5
+paginate:            1000
 permalink:           pretty
 
 # About/contact
