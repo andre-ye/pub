@@ -5,7 +5,7 @@ date: July 9th, 2022
 topic: Review
 ---
 
-A review and notes on *Deconstruction* by David J. Gunkel.
+A review and notes on *Deconstruction* by David J. Gunkel. 
 
 *Verdict*: A brilliantly written introduction of deconstruction, with examples, history, and lots of cautionary notes.
 
