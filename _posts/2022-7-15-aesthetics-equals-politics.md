@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aesthetics Equals Politics, Mark Foster Gage
+title: Aesthetics Equals Politics, Gage
 date: July 15th, 2022
 topic: Review
 ---
