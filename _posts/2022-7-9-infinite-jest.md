@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinite Jest, David Foster Wallace
+title: Infinite Jest, Wallace
 date: July 9th, 2022
 topic: Review
 ---
