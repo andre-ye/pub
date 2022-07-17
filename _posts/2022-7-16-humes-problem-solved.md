@@ -1,14 +1,21 @@
 ---
 layout: post
 title: Hume's Problem Solved, Schurz
-date: July 13th, 2022
+date: July 16th, 2022
 topic: Review
 ---
 
 Review, notes, and reflections on *Hume's Problem Solved: The Optimality of Meta-Induction* by Gerhard Schurz
 
 ## Table of Contents
-
+- [1: The Problem of Induction](#1--the-problem-of-induction)
+  * [1.1: The Notion of Induction](#11--the-notion-of-induction)
+  * [1.2: David Hume and the Problem of Justifying Induction](#12--david-hume-and-the-problem-of-justifying-induction)
+- [2: On Failed Attempts to Solve the Problem of Induction](#2--on-failed-attempts-to-solve-the-problem-of-induction)
+  * [2.1: Can Induction Be Avoided?](#21--can-induction-be-avoided-)
+  * [2.2: Is Induction Rational by Definition?](#22--is-induction-rational-by-definition-)
+  * [2.3: Can Induction Be Justified by Assumptions of Uniformity?](#23--can-induction-be-justified-by-assumptions-of-uniformity-)
+  * [2.4: Can Circular Justifications of Induction Have Epistemic Value?](#24--can-circular-justifications-of-induction-have-epistemic-value-)
 
 ## 1: The Problem of Induction
 
