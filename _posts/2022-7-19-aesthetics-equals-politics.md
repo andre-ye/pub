@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aesthetics Equals Politics, Gage
-date: July 15th, 2022
+date: July 19th, 2022
 topic: Review
 ---
 
@@ -40,4 +40,30 @@ Review and notes on *Aesthetics Equals Politics: New Discourses Across Art, Arch
 - Poetics of knowledge - learning can derive form a multiplicity of places and ways.
 
 ### Building and Breath: Beauty and the Pact of Aliveness, Elain Scarry
-Left off at page 17
+- Beauty surfaces everywhere. he beautiful affirms life.
+- 'Life pact'
+- Architecture confirms beauty and the life pact.
+- Beauty is always lifesaving, regardless of identity.
+  - Is this really true? Is beauty an important function of identity - a 'middle-class preoccupation'?
+- How literal is the lifesaving power of beauty? Beautiful hospital design saves.
+- Aliveness can be physically affirmed in the exterior of a building - through moss, biological wildlife, coral-like textures, snailshell spirals, and so on.
+- Ugly spaces are punishing and inhibit healing. People desperately try to find beauty in these ugly spaces.
+  - Is this really true? What counts as ugly? In which ways is ugliness a function of our prejudices and restrictive worldviews? And how does architecture which runs away from ugliness towards beauty a manifestation of such prejudices?
+  - Is there a universality to beauty?
+- Much of art is tied to breath - the regulation of intake and exhale of air.
+- The Eiffel Tower as an airy structure lifted into the sky, breathing.
+- Modern skyscrapers with green building tops literally breathe.
+- Nuclear architecture is extreme asymmetricism and the total inversion of beauty.
+
+
+
+
+
+
+
+
+
+
+
+
+
