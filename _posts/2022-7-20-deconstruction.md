@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deconstruction, Gunkel
-date: July 16th, 2022
+date: July 20th, 2022
 topic: Review
 ---
 
@@ -32,6 +32,9 @@ A review and notes on *Deconstruction* by David J. Gunkel.
 - The process of displacement does not introduce Hegel's nondialectical third term, which operates through the triad formula thesis-antithesis-synthesis. Deconstruction does not use the terms of dialectics.
 
 ## For Instance
-Page 75.
+- Writing // Speaking. In the Western tradition, speech has primacy and priority over writing. Writing is subservient to speech; it captures what would have been spoken. The opposition between speech and writing frames a complete way of thinking. Derrida first initiates a deconstruction by inverting the opposition and playing with the primacy or precedence of writing over speaking, not on the basis of anthropological truth but rather as a step towards an emergent concept - the arche-writing, or simply writing (but not the 'writing' referred to in the writing//speaking opposition), which really was always already there, nesting in the tension of this opposition. 
+- Illusion // Real. The real undoubtedly has extreme supremacy over the illusory. Nietzsche initiates deconstruction with the inversion: "My philosophy an upside down Platonism... life in illusion as goal." What this points us towards is not just a reorientation of the illusion and the real as a binary opposition but an emergent concept - the virtual, in which the real and the illusion meld together to the point of being together in the fabric of this unique space.
+- Original // Copy. The original has precedence over the copy. For this reason the real Mona Lisa is not even comparable with a Mona Lisa printed on a piece of paper. The original is thought to be more real, more true, more reflective, more influential than any copy could be. A copy, it is thought, is just a reiteration of what has already been shown or said. When we invert the natural ordering, however, we arrive at in a world in which the copy tops the original, which points towards the emergence of a new concept - remix. Remix is neither original nor copy, but also both original and copy, because it both shameless takes from other sources and meshes them in a way that can be more transformative and influential than any one of these sources individually.
+- Organic // Technological. Haraway's *Cyborg Manifesto* reunderstands feminist politics by first inverting the precedence of the organic over the technological, then by introducing the concept of the cyborg as an image which both is organic and technological and is neither organic nor technological. The cyborg is the posthuman figure resulting form the deconsturction of the human.
 
 ## Consequences and Risks
