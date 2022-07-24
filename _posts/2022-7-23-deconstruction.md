@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Deconstruction, Gunkel
-date: July 20th, 2022
+date: July 23, 2022
 topic: Review
 ---
 
 A review and notes on *Deconstruction* by David J. Gunkel. 
 
-*Verdict*: A brilliantly written introduction of deconstruction, with examples, history, and lots of cautionary notes.
+*Verdict*: A brilliantly written introduction of deconstruction, with examples, history, and lots of cautionary notes. I have ready many texts introducing deconstruction and this is by far the best. A very approachable read.
 
 ## Going Negative
 - It is difficult to define deconstruction positively, so we begin by outlining the negative.
@@ -27,7 +27,7 @@ A review and notes on *Deconstruction* by David J. Gunkel.
 - Poststructuralism: a field of thought which seeks to subvert and complicate but not to directly oppose - direct opposition behind already on structuralist terms - the structuralist mode.
 - Deconstruction as a 'strategy' is composed of the following two key steps, given a binary opposition which is unequal in weight by 'default':
   1. *Inversion.* We begin a playful act of subversive deconstruction by considering the inversion of prioritization - to place the concept which is at the bottom by default on top, and its opposite on top by default instead on the bottom. This encourages us to begin breaking down the binary opposition.
-  2. *Centering of an encompassing alternative.* We can 'round out' the deconstruction strategy by now identifying an alternative structure which does not 'resolve' the opposition in the dialectic Hegelian sense, but instead encompasses both oppositions while respecting the differences between them.
+  2. *Centering of an encompassing alternative.* We can 'round out' the deconstruction strategy by now identifying an alternative structure which does not 'resolve' the opposition in the dialectic Hegelian sense, but instead encompasses both oppositions while respecting the differences between them. The result is what Spivak calls "critical intimacy", what Haraway calls "blasphemy", what Gunkel calls an "eruptive emerging concept"
 - The **Double Science** - overturning and displacement.
 - The process of displacement does not introduce Hegel's nondialectical third term, which operates through the triad formula thesis-antithesis-synthesis. Deconstruction does not use the terms of dialectics.
 
@@ -38,3 +38,15 @@ A review and notes on *Deconstruction* by David J. Gunkel.
 - Organic // Technological. Haraway's *Cyborg Manifesto* reunderstands feminist politics by first inverting the precedence of the organic over the technological, then by introducing the concept of the cyborg as an image which both is organic and technological and is neither organic nor technological. The cyborg is the posthuman figure resulting form the deconsturction of the human.
 
 ## Consequences and Risks
+- What is the value of deconstruction?
+- Deconstruction opens up the possibility of thinking differently and to make a difference?
+- Fight the power: the principle of noncontradiction is fundamental. However, logical oppositions are prejudicial; they are not neutral; they institute difference. Deconstruction offers us a way to think critically about those on the deprivileged side of the logical binary and to recognize the existence of the binary itself.
+- Deconstruction is site-specific; there is no one deconstruction.
+- Deconstruction deconstructs Eurocentrism and phallagocentrism.
+- Although it is often accused of doing so, deconstruction never leads to relativism or indeterminism.
+- "There is nothing outsdie the text" - All reality has the structure of a differential trace, one cannot experience or refer to the "real" except from and in an interpretative experience. 
+- Communicating deconstruction puts a strain on language. This part and parcel of deconstruction, given that language is a structuralist premise of differences.
+- Deconstructionist interventions always risk appropriation and incorporation into binary logics.
+- The work of deconstruction is never finished due to the eternal possibility of reincorporation.
+
+> Deconstruction does not provide solutions to existing problems. It seeks to deomntrate how the very way we conceive of and talk about a problem is already a problem.
