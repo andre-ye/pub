@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulacra and Simulation, Baudrillard
+title: Simulacra and Simulation, Baudrillard (*)
 date: July 25, 2022
 topic: Review
 ---
