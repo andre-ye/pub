@@ -37,6 +37,10 @@ Review and notes on *Simulacra and Simulation*.
   - Marx and exchange. How does the real function as capital which reproduces itself? And how does this result in the valuation and exchange-value of the real?
   - **The Real is capital; valued by its exchange, the transcendental for the ontic, the ontic for the transcendental, the ontic for the ontic.** This forms the Mobius strip of the real. (?)
   - It may be too early to say this, but it seems like Baudrillard is a manifold of Zizek's in *Sex and the Failed Absolute*.
+
+*Let me try out an idea for size here.* When products enter into large-scale systems of exchange, they become commodities: their value in the labor that creates them becomes undifferentiated, reduced to a common substance. The fetishism of the commodity is that we become unaware of the undifferentiation even though it is the underlying logic of our exchange, and therefore mask the conditions of labor which reside within the commodity. The difference between the real and the fake, between the original and the copy, is a difference which [the substance of experience] as capital undifferentiates. We exchange [the substance of experience] routinely - we share stories, we talk, we engage on social media. It is a mass feeding and producing frenzy of this substance of experience. The 'real' experience which lies within is obscured, and maybe even vanishes. In this respect the real is suicidal, and the fake is suicidal, just as feudalism is suicidal.
+
+
 - Representation stems from the principle of the equivalence of the sign and the real
   - "the radical negation of the sign as value"
 - Successive phases of the image:
