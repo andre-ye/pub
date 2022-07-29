@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speculative Aesthetics, Mackay et al.
-date: July 19th, 2022
+date: July 28, 2022
 topic: Review
 ---
 
