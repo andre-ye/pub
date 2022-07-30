@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hume's Problem Solved, Schurz (*)
-date: July 21, 2022
+date: July 29, 2022
 topic: Review
 ---
 
@@ -129,7 +129,64 @@ Review, notes, and reflections on *Hume's Problem Solved: The Optimality of Meta
   - Deduction can only prove statements represented in the predicate set.
 - One needs induction to overcome this problem. The burden of solving BPP shifts to justifying inference through induction and abduction.
 
-Left off on page 35.
+### 3.3: Coherentism and its Shortcomings
+- Coherentistic accounts - the beliefs of an epistemic agent are confirmed when they mutually support each other. This accepts circular justifications.
+- Circular justifications, however, are without epistemic value because one can justify mutually contradicting propositions with it.
+- Inductive and anti-inductive accounts can both be justified with circular justifications.
+- There mere existence of circular justification relations does not increase the probability of being true.
+- This likewise applies to probabilistic coherentist arguments. A statement and its opposite can have the same distributions.
+- For every belief system contining $$n$$ elementary propositions, there exist $$2^n$$ cohrent but mutually contradictory belief systems.
+- This applies to complete justifcatory circles but not partial circles.
+
+### 3.4: Externalism and its Shortcomings
+- Internal - a subject has cognitive accessibility to the relevant state.
+- External - a subject does not have cognitive accessibility to the relevant state.
+- Goal externalism - the goal of knowledge is truth. Not problematic given that truth is metaphysically neutral.
+- Justification externalism: replace the internalist concpet of justification with an external one.
+- Reliability externalism - a belief is externally justified iff this belief was formed by a cognitive process reliable in our world.
+- Externalist justifications deprive the subject of cognitive accessibility, which hinders their meliorative function.
+- Justification externalism can be used to argue in favor of both induction and anti-induction.
+
+### 3.5: The Necessity of Reliability Indicators for the Social Spread of Knowledge
+- Reliably produced beliefs must be recognizable to members of the population by means of reliability indicators.
+- The ability to discriminate between reliable information and unreliable information requires reliability indicators, which can be based on the conditions of the social spread of knowledge in cultural evolution.
+
+## 4. Are Probabilistic Justifications of Induction Possible?
+
+### 4.1: Why Genuine Confirmation Needs Induction Axioms
+- Many probabilistic accounts of Hume's problem attempt to reconcile it probabilistically: inductive inferences lead from true premises to true conclusions with high probability.
+- Inductions can only be successful if the observed frequencies can be inductively projected into the future, which is itself an inductive assumption.
+- Beware of Bayesian pseudo-confirmation.
+  - Justification by conjunction. Let $$G =$$ grass is green and $X =$$ God exists. Then, $$G$$ confirms $$G \wedge X$$, but this is trivial because $$P(X|G) = P(X)$$.
+  - Justification by content cutting. We consider latent variables which are not considered.
+
+$$H_1 = E \wedge H_1^*, H_1^* = \forall x (\neg O x \wedge Ex \to G x)$$
+
+$$H_2 = E \wedge H_2^*, H_2^* = \forall x ( \neg O x \wedge E x \to \neg G x)$$
+
+$$H_1$$ is the iductive generalization, $$H_2$$ is the anti-inductive. $$Ox$$ expresses that the individual 44x$$ has been observed; $$E := \forall x (O x \wedge Ex \to Gx)$$ (evidence). Both hypotheses are Bayes-confirmed by $$E$$.
+
+### 4.2: Digression - Goodman's Paradox and the Problem of Language Relativity
+- Without inductive assumptoins, content-transcending confirmation is impossible.
+
+> *Goodman's grue predicate.* An object $$x$$ is called 'grue' iff $$x$$ has been observed previous to some future time $$t_k$$ and is green ($$Gx$$), or it has not been observed previous to time $$t_k$$ and is blue $$B(x)$$.
+
+- If we apply the inductive generalization to all existing emeralds, we have both that all emeralds are green and all emerlads are grue; yet these are contradictory predictions.
+- One cannot apply principles of induction to both ordinary and Goodman predicates without producing a contradictory.
+- Why should the grue predicate not be projected?
+  - Being grue entails information about observation; induction is by definition an inference rom the observed to the unobserved.
+  - Being grue refers to a point in time and refers to a change in prpoerties over time.
+- Positional predicates - predicates which contain logically essential information about particular indiviudals or space-time points. We should not project these. Induction works by transferring the same properties from the observed to the unobserved; we cannot have things changing all over the place. Rather, we can only project qualitative predicates.
+- The problem of language dependence is independent of Hume's problem.
+
+### 4.3: Statistical Principal Principle and Narrowest Reference Classes
+- Statistical probabilies are always already weak inductive principles.
+- *Principal principle* (PP) - David Lewis, bridges epistemic and objective probabilities.
+- Narrowest reference class: we always want to associate the subject probability of an event with the most constraints on the information which is used to inductively determine such the probability. 
+- Too complicated for me to understand :')
+
+### 4.4: Statistical Principal Principle and Exchangeability as Weak Induction Axioms
+left off on page 61
 
 
 
