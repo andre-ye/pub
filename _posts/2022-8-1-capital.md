@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capital, Marx (*)
-date: July 28, 2022
+date: August 1, 2022
 topic: Review
 ---
 
@@ -262,9 +262,21 @@ $$M \to C \to M'; M' = M + \Delta M$$
   - The product is the property of the capitalist and not that of the immediate producer. The capitalist owns the labor power and congeals it into the product; upon sale of the product he only parts ways with the use-value. He has already the value.
 
 **Section 2.** The Production of Surplus-Value.
+- The product used by the capitalist is a use-value, but they are produced only in that they are repositories of exchange-values.
+- The aim is to produce a value which has surplus value.
+- The value of the means of production are constituencies of the value of the product.
+- Two conditions:
+  - Value is independent of use-value, but it most be embodied in a use-value.
+  - Time occupied in the labor of production must not exceed the socially necessary time.
+- The value which labor power creates and the value o flabor power are different in magnitude; and the capitalist aims at the difference between the two. The laborer realizes its exchange value and parts with its use value, just as with any commodity. The buyer of the labor-power owns its use value now.
+- Equivalent is exchanged for equivalent, but surplus labor originates from teh excess in labor.
+- It does not matter whether labor appropriated by the capitalist is skilled or unskilled. Moreover, the reduction of skilled labor to average labor is unavoidable.
 
 ## 8. Constant Capital and Variable Capital
 
+## 9. The Rate of Surplus Value
+
+## 10. The Working Day
 
 
 
