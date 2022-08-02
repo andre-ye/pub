@@ -273,6 +273,14 @@ $$M \to C \to M'; M' = M + \Delta M$$
 - It does not matter whether labor appropriated by the capitalist is skilled or unskilled. Moreover, the reduction of skilled labor to average labor is unavoidable.
 
 ## 8. Constant Capital and Variable Capital
+- Labor adds fresh value by expending additional labor.
+- Labor raises the means of production from the dead by making them living factors of the labor process.
+- Labor both produces and preserves value.
+- The total value of the means of production are gradually transferred to the products, given that their use-value deteriorates.
+- The property that the laborer retains value while adding value to it is a gift of Nature and costs the laborer nothing but is of tremendous help to the capitalist.
+- The action of labor power not only reproduces its own value, but produces value over this base.
+- The part of capital which constitutes the means of production is constant capital. The part represented by labor-power is variable: this undergoes the alteration of value. It produces the equivalent of its own value and an excess surplus value, which can vary.
+- 
 
 ## 9. The Rate of Surplus Value
 
