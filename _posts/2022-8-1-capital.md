@@ -284,6 +284,27 @@ $$M \to C \to M'; M' = M + \Delta M$$
 
 ## 9. The Rate of Surplus Value
 
+**Section 1.** The Degree of Exploitation of Labor-Power
+- Let $$C$$ represent capital; it consists of the money $$c$$ laid into the means of production and the sum of money $$v$$ expended upon labor power. Thus $$C = c + v$$. Let the surplus value be $$s$$. Thus the resulting sum is $$C = c + v + s$$.
+- $$v$$ relates to $$s$$; the dead labor is animated into living labor, variable labor.
+- One can calculate the absolute production of surplus value by setting $$c = 0$$. 
+- The relative production of surplus value is given by $$\frac{s}{v}$$ - this is the rate of surplus value.
+- Necessary labor-time: the labor-time required for the reproduction of wages in expended labor. Necessary labor: the labor expended in necessary labor-time.
+- When a laborer's labor is no longer necessary, it becomes surplus labor and has the effect of 'creating out of nothing'. 
+- The rate of surplus value expresses the ratio between surplus labor and necessary labor. This is the degree of exploitation of labor-power.
+
+**Section 2.** The Representation of the Components of the Value of the Product by Corresponding Proportional Parts of the Product Itself
+
+
+
+
+
+
+
+
+
+
+
 ## 10. The Working Day
 
 
