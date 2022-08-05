@@ -294,7 +294,9 @@ $$M \to C \to M'; M' = M + \Delta M$$
 - The rate of surplus value expresses the ratio between surplus labor and necessary labor. This is the degree of exploitation of labor-power.
 
 **Section 2.** The Representation of the Components of the Value of the Product by Corresponding Proportional Parts of the Product Itself
+Various component parts of the value of the product can be represented as proportional parts of the product itself. The product is a result of a chain of labor applied to the natural gifts of labor, and thus we can identify how constitutencies of value manifest in physicalities of the product.
 
+One may perceive the worker as laboring to account for the reproduction of all the machinery and also to produce surplus value.
 
 
 
