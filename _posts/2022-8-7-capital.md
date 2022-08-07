@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capital, Marx (*)
-date: August 1, 2022
+date: August 7, 2022
 topic: Review
 ---
 
@@ -285,6 +285,7 @@ $$M \to C \to M'; M' = M + \Delta M$$
 ## 9. The Rate of Surplus Value
 
 **Section 1.** The Degree of Exploitation of Labor-Power
+
 - Let $$C$$ represent capital; it consists of the money $$c$$ laid into the means of production and the sum of money $$v$$ expended upon labor power. Thus $$C = c + v$$. Let the surplus value be $$s$$. Thus the resulting sum is $$C = c + v + s$$.
 - $$v$$ relates to $$s$$; the dead labor is animated into living labor, variable labor.
 - One can calculate the absolute production of surplus value by setting $$c = 0$$. 
@@ -294,12 +295,30 @@ $$M \to C \to M'; M' = M + \Delta M$$
 - The rate of surplus value expresses the ratio between surplus labor and necessary labor. This is the degree of exploitation of labor-power.
 
 **Section 2.** The Representation of the Components of the Value of the Product by Corresponding Proportional Parts of the Product Itself
+
 Various component parts of the value of the product can be represented as proportional parts of the product itself. The product is a result of a chain of labor applied to the natural gifts of labor, and thus we can identify how constitutencies of value manifest in physicalities of the product.
 
 One may perceive the worker as laboring to account for the reproduction of all the machinery and also to produce surplus value.
 
+**Section 3.** Senior's Last Hour
+- Nassau Senior - the whole profit is derived from the last hour. Thus decreasing the length of the workday threatens not just surplus profit but gross profit.
+- Marx - but we are not reproducing all of the value in the single hour. The value was already congealed within the object, and one hour of time was added to it. There is nothing mystical about it.
 
+**Section 4.** Surplus-Produce
+- SUrplus-produce - the part of the product that represents the surplus-value.
+- A nation's wealth should be measured by the relative magnitude of surplus-produce.
+- Sum of necessary labor and surplus labor constitutes the time which is worked, i.e. the working day.
 
+## 10. The Working Day
+
+**Section 1.** The Limits of the Working Day
+- The working day is not constant; it is variable.
+- There are, however, limitations on the working day - the ratio between surplus labor and necessary labor must be near zero at minimum and labor in total cannot exceed 24 hours a day.
+- What is now the outermost limit?
+- Capital is dead labor, vampire like - capital has 'one single life impulse' - to create surplus value
+- The bounds of the normal working day are exceedingly elastic.
+
+**Section 2.** The Greed for Surplus-Labor - Manufacturer and Boyard
 
 
 
