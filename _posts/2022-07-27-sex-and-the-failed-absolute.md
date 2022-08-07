@@ -79,9 +79,72 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 - Heidegger was the 'climax without decline' of transcendentalism; the natural sciences 'kidnapped' the ontic.
 - Hawking declared that philosophy was dead. However science is wrapped in the hermeneutic circle; the space it discovers is constrained by itself. It is itself a philosophical system.
 - Reality deprived of the transcendental is inconsistent. Consider the nuclear button; a tiny part of reality which holds it all together.
+- The search for the overlapping between the transcendental and the real is a primary topic of German idealism.
 - Scientific realism is the contemporary hegemonic view.
 - How does the transcendental dimension arise in the real (ontic)?
 - Deontological dimension: the ought/is differentiation
+- Is the transcendental a repressed image of reality?
+- Any attempts to overcome the bridge between the ontic and the transcendental is labelled an opponent of Reason.
+  - Some evolutionary positivists attempt to provide an evolutionary account of transcendentalism.
+- Foucault - the empirico-transcendental doublet. Empirically, we are part of nature, but transcendentally, we are part of the symbolic praxis horizon.
+- Reality fails to be what it is; "its facticity is traversed by its impossibility". In this way it is similar to the Absolute.
+- The transcendental is often considered to be subjective, but today transcendentalist positions also present themselves as anti-subjectivist.
+  - Structuralism - transcendentalism without subject (Levi-Strauss)
+- The structuralist thesis - one cannot think outside of the symbolic order; once it establishes itself, we cannot think outside of structuralist terms (it is 'always already' here), and only tell myths and narratives about the genesis and world before this symbolic order.
+  - It is not like the symbolic order suddenly emerges itself, but that it was always already here because there is no way to relate about time which is not in its term.
+  - Althusser remains transcendental even in his theory of subjectivity as an illusory effect of ideology
+  - Derrida's always-already: the Fall is a violent cut of Difference which disturbs eternal peace, but which too makes for all that preceded it a retrospective illusion
+  - Hegelian response: the always-already does not suffice: the question is not "what is nature for language", but "what is language for nature"? What does the rise of the Subject do for the pre-subject Substance? When we discover a new untouched tribe, how are *we* the Other? This allows us to slide beneath the transcendental.
+  - In quantum physics, the real is formed in the moment before the collapse; the real is the becoming of the real.
+  - Sexual difference - the real is not the difference between the masculine and the feminine but the difference in becoming, the process, the journey. 
+- Inversion of teleologism: anti-evolution, ex-aptation - organs lose function and become useless, and triggers a new symbolic order: *order emerges out of a retroactive chaos*.
+  - Stephen Jay Gould - speculates human speech emerges from the malfunction of throat muscles in humanoid apes.
+  - Marx: the anatomy of man as key to the anatomy of the ape as a subversion of teleological evolutionism.
+- Obet a: the subject's impossible-real objectal counterpart, which is the imagined object which never existed reality; it retroactively emerges through its loss; absolute recoil.
+- Object-oriented ontology is also transcendental: grounded in a disclosure of reality: relies upon an anthropomorphic return to the premodern mystic world.
+- Derrida's deconstruction: 'there is nothing outside the text'. ontological claims are always-already caught in the transcendental dimension of writing. Or, external reality is already made in a structuralist/textual fabric, the ontology of reality.
+
+### Varieties of the Transcendental in Western Marxism
+- Distrust of Western Marxism is growing among radical leftist theories: Western Marxism has lost contact with the global revolution.
+  - From the perspective of western Marxism, it is thrid word radicalism which has lost contact with Marxism.
+- Lukacs - revolutionary theory is itself a form of practice.
+- Marxist history is always itself practical - changes the object into revolutionary subject. Truth is only possible in an engaged position.
+  - Sandra Harding, standpoint epistemology: an inverse ontological claim. Changes the oppressed subject into object, 'strong objectivity'.
+- The gap that separates the ontic from the transcendental is unbridgeable (?)
+- Labor is reified, science is reified: they perceive themselves as the knowledge of reality the way it is itself, without its mediation with subjectivity.
+- Lukacs - every objective state of things is already mediated by subjectivity. Every objectification is reification.
+- The proletarian revolution is also characterized by the gap between the universal, transcendental assertion of freedom and the following new conditions of exploitation.
+- Naive realism is premodern, Renaissance thinking
+- Other Western Marxists attempt to break out of the transcendental circle:
+  - Bloch - teleology is part of nature itself. Returns to premodern utopian cosmology.
+  - Ilyenkov - cosmology of the spirit, development of reality from elementary atomics into different forms of life; if reality is spatially and temporally without limits, then there is overall no progress, since everything has always already happened, and thus every development is circular. Anti-teleological stance. Quite speculative cosmological position.
+  - Sade - there is nothing wrong with violence as it conforms to the violence of the universe. Yet there is no such nature which is ontologically consistent: nature is already itself destabilized by antagonisms. Total negation has always-laready happened.
+  - Althusser - structural Marxism
+  - Adorno - how to reconcile materialism's prioritization of the objective and the idealist notion of subjective mediation of all objective reality? everything we experience as directly given is already mediated; every theory which asserts our access to direct reality is therefore false. However it is not true that all objective content is produced by the subjective either, which fetishizes subjectivity into immediacy.
+- Today's science - capitalism needs science as the foundation of economic productivity, but also wants to keep the foundations of society free from science. We now have a need for 'state philosophers; neo-Kantians fulfill this role.
+- **Stances towards ontology are always political positions.**
+
+### The Margin of Radical Uncertainty
+- Paradox of the postmodern rejection of a consistent Self - we end up with a set of contingent subjective consturctions. A materialist instead refuses to accept objective reality to subvert consist subjectivity.
+- Every notion of objective reality is bound to a subjective point. Any physicist knows this; your calculations for the velocity of an object vary depending on your reference frame.
+- How are things in themselves?
+- Lacan's basic materialism is occasionally accompanied with agonisticism - who knows? Even if god really exists, our belief in him is still an illusion. Religion is a fake even if it is true.
+- Lacan's margin of radical uncertainty
+- Where do we look at for the real to break out of our circle of subjectivity?
+- The only accessible real is the excess of our subjectivity.
+- Subject never fits reality; it is the crack in the ontological edifice.
+- The transcendental dimension is noto nly an effect of failed ontology, but that the failure of ontology is inscribed in the very inconsistent form of the transcendental.
+- Steps:
+
+1. The transcendental is incomplete, just as the real is incomplete, both as a product of failed ontologies.
+2. We gain access to the in-itself by identifying our deficiency with the deficiency that is within reality itself. This is the overlap between the reality and the transcendental, the overlap.
+3. The deficiency is sexuality (Lacan and Freud). Sex is the human point of breaking with nature: we confront our ontological incompleteness and find pleasure in the means as more of an end than the end itself.
+4. Sexuality can be expanded as a function of reality: how has reality become structured to allow for the enchantment of sexual defifiency? 
+  - The boomerang is the first properly sexual and therefore human instrument. 
+
+## Corrollary 1: Intellectual Intuition and Intellectus Archetypus - Reflexivity in Kant and Hegel
+
+### Intellectual Intuition from Kant to Hegel
 
 
 
