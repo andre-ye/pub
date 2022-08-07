@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sex and the Failed Absolute, Zizek
-date: July 26, 2022
+title: Sex and the Failed Absolute, Zizek (*)
+date: August 6, 2022
 topic: Review
 ---
 
