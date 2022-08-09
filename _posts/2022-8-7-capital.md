@@ -319,7 +319,26 @@ One may perceive the worker as laboring to account for the reproduction of all t
 - The bounds of the normal working day are exceedingly elastic.
 
 **Section 2.** The Greed for Surplus-Labor - Manufacturer and Boyard
+- Capital is not the inventor or sustainer of surplus labor; any sector of society which holds monopoly over the means of production must use surplus labor.
+- However, it is in capital in which the bounds on the quantity of surplus labor are raised to physical limits.
+- In many cases, with the corvee system, the working day is longer than the material day.
+- Progressive 'small thefts' of capital
+- The worker becomes understood as labor-time
 
+**Section 4.** Day and Night - the Relay System
+- Constant capital only absorbs labor; variable capital translates it into surplus labor
+- Because it is impossible to fully use labor throughout day and night, a relay system emerges
+- Thus the machine can spin 24 hours a day and extract more surplus labor than physically in a day.
+
+**Section 5.** The Struggle for a Normal Working Day
+- David Harvey - the first occurrence of class conflict in *Capital*
+- The laborer is always nothing else than their labor power
+- Capital does not care for the length of life of labor power - it is a 'greedy algorithm'
+- Capitalist production therefore produces the deterioration of human-labor power and the premature exhaustion of labor-power.
+- In slavery, there is some care for the slave's health
+- The population of laborers degenerates and becomes stunted; yet capital invents its own responses (profit and the good it brings)
+- Free competition brings out the laws of capitalist production -- coercive laws -- and therefore the will or morality of the capitalist is irrelevant.
+- The working day is a result of centuries of struggle between capitalist and laborer.
 
 
 
