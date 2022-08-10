@@ -330,7 +330,7 @@ One may perceive the worker as laboring to account for the reproduction of all t
 - Because it is impossible to fully use labor throughout day and night, a relay system emerges
 - Thus the machine can spin 24 hours a day and extract more surplus labor than physically in a day.
 
-**Section 5.** The Struggle for a Normal Working Day
+**Section 5-7.** The Struggle for a Normal Working Day
 - David Harvey - the first occurrence of class conflict in *Capital*
 - The laborer is always nothing else than their labor power
 - Capital does not care for the length of life of labor power - it is a 'greedy algorithm'
@@ -339,13 +339,21 @@ One may perceive the worker as laboring to account for the reproduction of all t
 - The population of laborers degenerates and becomes stunted; yet capital invents its own responses (profit and the good it brings)
 - Free competition brings out the laws of capitalist production -- coercive laws -- and therefore the will or morality of the capitalist is irrelevant.
 - The working day is a result of centuries of struggle between capitalist and laborer.
+- Capital keeps on pushing the working day longer and longer - "capital celebrated its orgies"
+- Capitalism redefined day and night, age, childhood, temporality.
+- Legislation may impose limits but capital always skirts around
+- Capital has an unrestricted passion for lenghtening the working day.
+- A labor as a 'free' agent of their labor succumbs to capitalist production.
+- "Labor cannot emancipate itself in the white skin where in the black it is branded." Yet out of the Civil War emerges the agitation for 8 hours.
+- For protection against exploitation, the worker must emerge as a class.
 
+## 11. The Rate and Mass of Surplus-Value
+- We have henceforth considered the value of labor power as in given, constant magnitudes.
+- The magnitude of variable capital varies with the number of workers
+- The mass of surplus value created is a combination of the number of workers and the degree of exploitation of each worker.
+- Let $$S=$$ mass of surplus-value, $$s=$$ the surplus-value given by an individual laborer on an average day, $$v=$$ the variable capital spent daily, $$V=$$ the sum total of variable capital, $$P=$$ the value of an average labor-power, $$\frac{a'}{a}$$ the degree of exploitation. We can calculate the mass of surplus value as follows:
 
-
-
-
-
-## 10. The Working Day
+$$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 
 
 
