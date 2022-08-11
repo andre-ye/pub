@@ -355,7 +355,20 @@ One may perceive the worker as laboring to account for the reproduction of all t
 
 $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 
+- The absolute limit on the average working day sets a limit on how small a workforce can be.
+- Thus capital tends to increase as many laborers as possible.
+- The mass of the surplus-value produced is determined by the rate of surplus-value and the amount of variable capital advanced.
+- The capitalist divides capital into constant parts (means of production) and variable parts (labor-power).
+- We find that surplus value is maximized by variable capital. This is contradictory because variable capital should compensate constant capital (e.g. the spinner and the baker).
+- **Interesting** - "0/0 may represent an actual magnitude"
+- Social working day - total number of hours worked.
+- The capitalist must have an initial principal capital amount, larger than the value of labor power. A laborer which does not have this amount must turn to work. Sometimes, the surplus value extracted is not enough and the capitalist must work himself, thus he is a hybrid capitalist laborer. But at a certain evolution in society, the capitalist must dedicate all his time to surplus-value creation.
+- The capitalist is personified capital: ensures the labor process proceeds efficiently.
+- Capital coerces the working class to perform more work than is 'needed' for self-sustenance.
+- The production of surplus value through extension of the working day **is independent of change in the mode of production**.
+- When we consider the process of production from the perspective of optimizing surplus value, it *becomes the means of production which work the laborer, not the laborer which works the means of production*. This is a deconstructive step, an inversion - the likes of Derrida and Baudrillard. It is the means of production which *consumes* the laborer, the laborer becomes embedded into the product.
 
+## 12. Concept of Relative Surplus-Value
 
 
 
