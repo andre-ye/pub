@@ -369,8 +369,38 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 - When we consider the process of production from the perspective of optimizing surplus value, it *becomes the means of production which work the laborer, not the laborer which works the means of production*. This is a deconstructive step, an inversion - the likes of Derrida and Baudrillard. It is the means of production which *consumes* the laborer, the laborer becomes embedded into the product.
 
 ## 12. Concept of Relative Surplus-Value
+- The laborer continues to work past the value of what he is paid for.
+- How can the production of surplus be increased without increasing the working day? By somehow lenghthening the period of surplus labor and simultaneously neccessarily contracting the period of necessary labor.
+- The capitalist can pay the laborer less, and thus the reproduction of necessary labor becomes shorter in labor-time. Yet then the laborer's labor-power is diminished because the laborer fails to sustain their own life.
+- Therefore we cannot decrease the labor-time spent reproducing by reducing the wage for the value of the laborer's labor-power, but *by reducing the value itself*.
+- Surplus value produced by prolonging the working day - absolute surplus value.
+- Surplus value produced by changing the ratios of surplus to necessary labor-time in the working day - relative surplus-value.
+- Increasing the productivity of labor in industries which supply the necessities of life decreases the value of labor-power. 
+- A scientific analysis of competition is not possible.
+- The real value is not measured by labor-time but socially necessary labor time. Therefore extra-surplus value is realized by increasing labor-efficiency such that the individual value is below the social value, and the differential between individual value and social value is pocketed as exrta surplus-value. Thus it is the incentive of the capitalist to cheapen commodities by increasing the productiveness of labor.
+- As soon as an efficient method of production becomes general, the difference between the individual and social values of a product ceases to exist and surplus-value falls.
+- A commodity's value is inversely related to the productiveness of labor, but relaitve-surplus value is directly related to it.
+- The capitalist has no interest in the commodity's value. What is important is the surplus-value.
+- Why does the capitalist continually decrease the social value of commodities? 
 
+## 13. Cooperation
 
+## 14. Division of Labor and Manufacture
 
+**Section 1.** Two-Fold Origin of Manufacture
+
+## 15. Machinery and Modern Industry
+
+## 16. Absolute and Relative Surplus-Value
+
+## 17. Changes of Magnitude in the Price of Labor-Power and in Surplus-Value
+
+## 18. Various Formulas for the Rate of Surplus-Value
+
+## 19. The Transformation of the Value of Labor-Power into Wages
+
+## 20. Time-Wages
+
+## 21. Piece-Wages
 
 
