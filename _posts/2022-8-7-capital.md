@@ -384,6 +384,18 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 - Why does the capitalist continually decrease the social value of commodities? 
 
 ## 13. Cooperation
+- Capitalist production begins when capital begins to operate across a large number of laborers and yields large quantities of products. That is, it emerges in scale. Economies of scale mark, logically and historically, capitalist production.
+- There are substantive differences that emerge between a pre-capitalist and a capitalist system. 
+- Capitalism changes the conditions of production to be held and consumed, ironically, in common.
+- At scale, the value of constant capital decreases.
+- All parts of work progress simultaneously in capitalist production.
+- Labor in common plays a large role in cooperation.
+- The productive labor of power is social: the power is due to cooperation. The laborer 'strips off' his individuality.
+- Laborers cannot cooperate without being brought together. Therefore capitalsm encourages cooperation.
+- Resistance to conditions of exploitation rise with the number of cooperating labroers. Thus capital must counteract this resistance. 
+- Thus the capitalist hands down the task of supervision to others - a special form of wage-laborer. Hierarchy emerges from necessary production.
+- An immanent power in capital betowed by Nature
+- Cooperation is a necessary attribute of production at scale.
 
 ## 14. Division of Labor and Manufacture
 
