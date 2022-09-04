@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capital, Marx (*)
-date: August 15, 2022
+date: September 4, 2022
 topic: Review
 ---
 
@@ -444,7 +444,7 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
   - Motor mechanism - what puts the whole in engine, the energy source
   - Transmitting mechanism - the conversion of energy into motion.
   - Tool, working machine - the 'front-end' which was previously used by the machine
-- The machine performs the smae operations as a workman did before; the tooli s taken from the man and fit into a machine.
+- The machine performs the smae operations as a workman did before; the tool is taken from the man and fit into a machine.
 - It was the invention of machines that made revolution.
 - The machine supercedes the workman. It becomes free from the restraint of human labor.
 - The individual merely becomes a factor in mechanical production.
@@ -463,7 +463,7 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 - Less labor-power must be expended into producing the machinery than is displaced by the machine. The capitalist 
 - Capitalist profit comes from unpaid surplus labor.
 - The machine validates the labor which went into creating the machine: the amount of value transferred depends on the productivity of the machine.
-- **Marx inssits on the social nature of technological development, against great/genius man theory.**
+- **Marx insists on the social nature of technological development, against great/genius man theory.**
 - Reducing wages decreases the want for machines.
 
 **Section 3.** The Proximate Effects of Machinery on the Workman.
@@ -512,7 +512,13 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 **Section 6.** The Theory of Compensation as Regards the Workpeople Displaced by Machinery
 - Bourgeois political economists argue that when machinery displaces workmen, the capital freed is used to employ more workers for a different task.
 - Fewer people will be employed with every advance in machinery.
-- 
+- Machinery does not set the laborer "free"
+- The growing wealth of the bourgoiesie gives rise to new desires.
+- Increase in means of production causes an increased demand for labor in new branches of production.
+
+**Section 7.** Repulsion and Attraction of WOrkpeople by the Factory System
+- When machinery is applied to a space, the result is almost predetermined: the factory system damages the 'old' producers. Initially, capital attracts profits and social capital. Soon, machinery is produced by machinery. 
+- The factory-system produces in large quantities with large expansive steps.
 
 ## 16. Absolute and Relative Surplus-Value
 
