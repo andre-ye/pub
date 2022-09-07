@@ -519,6 +519,10 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 **Section 7.** Repulsion and Attraction of WOrkpeople by the Factory System
 - When machinery is applied to a space, the result is almost predetermined: the factory system damages the 'old' producers. Initially, capital attracts profits and social capital. Soon, machinery is produced by machinery. 
 - The factory-system produces in large quantities with large expansive steps.
+- The factory system expands rapidly in jumps.
+- Laborers are constantly moved from location to location, simultaneously attracted and repulsed from employment to employment.
+
+**Section 8.** Revolution Effected in Manufacture, Handicrafts, and Domestic Industry by Modern Industry
 
 ## 16. Absolute and Relative Surplus-Value
 
