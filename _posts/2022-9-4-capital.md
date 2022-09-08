@@ -523,6 +523,17 @@ $$S = \frac{s}{v} \cdot V + P \times \frac{a'}{a} \times n$$
 - Laborers are constantly moved from location to location, simultaneously attracted and repulsed from employment to employment.
 
 **Section 8.** Revolution Effected in Manufacture, Handicrafts, and Domestic Industry by Modern Industry
+- Machinery does away with cooperation based on handicrafts.
+- A new division of labor disrupts the old one, with particular employment of **cheap labor** to provide inputs to simplified machines.
+- Capital mobilizes another 'army' of workers in _domestic industries_.
+- Modern manufacturing expands beyond the factory proper: it is in general the exploitation of cheap and **immature** labor. Labor becomes heavier in its lightness.
+- "Reckless squandering of labor-power", "robbery of conditions normally requisite for labor".
+- Newspaper and book printers become imprinted with the label of "slaughterhouses" - due to labor required for book-binding.
+- Domestic industry - places of industry which have not yet been taken over by machinery.
+- Wages in domestic industries are very small and even further cramped.
+- Exploitation eventually reaches a natural limit. When this is the case, machinery becomes an effective introduction.
+- The unemployed by the introduction of machinery sets forth a fluid population of workers to handle demand surges.
+- 
 
 ## 16. Absolute and Relative Surplus-Value
 
