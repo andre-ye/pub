@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sex and the Failed Absolute, Zizek (*)
-date: August 6, 2022
+date: September 11, 2022
 topic: Review
 ---
 
@@ -142,12 +142,25 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 4. Sexuality can be expanded as a function of reality: how has reality become structured to allow for the enchantment of sexual defifiency? 
   - The boomerang is the first properly sexual and therefore human instrument. 
 
-## Corrollary 1: Intellectual Intuition and Intellectus Archetypus - Reflexivity in Kant and Hegel
+## Corollary 1: Intellectual Intuition and Intellectus Archetypus - Reflexivity in Kant and Hegel
+
 
 ### Intellectual Intuition from Kant to Hegel
+- Intellectual intuition - free flow of awareness in which opposites collide.
+- Kant - if we were able to directly access the in-itself, we would not be able to have the spontaneity, the aleatoric matrix, which constitutes transcendental freedom.
+  - **Our freedom exists in between the phenomenal and the noumenal.** This is Hegelian Real, whereas Kantian Real is the noumenal thing in and of itself. There is a fear that closing this gap deprives us of ethics. 
+- Difference between subjective appearance and "real" appearance.
+- What is the problem of Kant? The pure positivity of Being is transposed onto the inaccessible noumenal reality. The Hegelian redress: transpose the absolute gap which separates us from the noumenal Absolute into the Absolute itself.
+- The Kantian gap is already the solution; a limitation which is its own solution (pharmakon) - Being itself is incomplete, it is complete in its incompleteness.
+- When Derrida deconstructs Roussea, the deconstruction is already in Rousseau's writing. This is a necessity: Derrida can only deploy a deconstruction through this blindness.
 
+### From Intellectus Ectypus to Intellectus Archetypus
+- Kant - intellectus archetypus. Possibility/contingency is a property of our finitude rather than of reality.
 
+## Scholium 1.1: Buddha, Kant, Husserl
+- Husserl asserts the phenomenological reduction: existence involved in experience.
 
+Page 88
 
 
 
