@@ -14,9 +14,16 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - The parallax effect - when we change our perspective and the object appears differently, it is not merely our epistemic limitation but a change in the ontological status of the object itself.
 - The only way for us to break out of the 'parallax gap' is through a psychoanalytic understanding of sexuality in which the means become more of an end than the end itself, and allows us to reach the Absolute, the Real. 
 - Abstraction is immanent to material reality, rather than an idealist leveling. It is abstraction which animates and gives live to cold, dead matter. For instance, it is Marx's theory of commodity exchange which animates the distribution of products, commodities, money, and capital - rather than atoms moving other atoms around.
+- Behind every ethnic cleansing is a poet.
 
 *Of Grammatology*, Derrida.
-- ...
+- Does the translation 'ruin' the original? In fact the translation holds together the originality. Butler: "the derivative is the conditin of possibility of the original."
+- Trace - the double movement and retroactive constitution of symbolic imposition. Formulating a new symbolic reality suggests that it was in fact there all along; that it was always already existent. Our thinking about origins is always eclipsed. "There is nothing outside the trace."
+- Differance - marks the excess irreducible to any synthesis or expression of the symbolic. "The (pure) trace is differance." DIfferance "permits the articulation of signs among themselves." It is the undissolved, irresolving, unsynthesized excess, that which escapes the dialectical unity.
+- A deconstruction can help us understand the excess which lies beyond present/past, speech/writing, mind/body.
+- "The supplement is neither a presence nor an absence. No ontology can think its operation". There is no reference, there can be no reference, to this outside differance.
+- Onto-theology - a framework of divine trace in which divine speech $$\to$$ divine word $$\to$$ the world $$\to$$ divine speech; circularity and self-justification.
+- The concept of writing must exceed the comprehension of language.
 
 *The History of Sexuality: An Introduction*, Volume 1. Michel Foucault.
 - It may seem upon immediate appearance that discourse on sexuality and sexual practice has been repressed into silence recently. However, we see instead a great explosino of discourse on sexuality - but such discourse has been molded differently, in ways in which we may not even recognize as sexual discursivity. The arrangement of bathrooms, families, education, and such are all sexual matters. That we would believe the former is itself an interesting ideological-epistemological-perceptory problem.
