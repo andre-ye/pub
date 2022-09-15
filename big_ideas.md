@@ -16,6 +16,10 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - Abstraction is immanent to material reality, rather than an idealist leveling. It is abstraction which animates and gives live to cold, dead matter. For instance, it is Marx's theory of commodity exchange which animates the distribution of products, commodities, money, and capital - rather than atoms moving other atoms around.
 - Behind every ethnic cleansing is a poet.
 
+*Absolute Recoil*, Slavoj Zizek
+- The standard liberal line is that a universality of rights allows for peaceful coexistence of different perspectives. The reproach of the colonized is that universality dissolves without residue into hegemony.  The liberal works towards universality without wounds. But from a dialectical perspective, we should look towards the liberatory potential of the wound. The transformation to the new epoch radically shifts our perspectives and faculties of knowing. Hegel: Spirit is the wound it tries to heal; the wound is self-inflicted.
+- 
+
 *Of Grammatology*, Derrida.
 - Does the translation 'ruin' the original? In fact the translation holds together the originality. Butler: "the derivative is the conditin of possibility of the original."
 - Trace - the double movement and retroactive constitution of symbolic imposition. Formulating a new symbolic reality suggests that it was in fact there all along; that it was always already existent. Our thinking about origins is always eclipsed. "There is nothing outside the trace."
