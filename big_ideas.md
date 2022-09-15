@@ -24,6 +24,8 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - "The supplement is neither a presence nor an absence. No ontology can think its operation". There is no reference, there can be no reference, to this outside differance.
 - Onto-theology - a framework of divine trace in which divine speech $$\to$$ divine word $$\to$$ the world $$\to$$ divine speech; circularity and self-justification.
 - The concept of writing must exceed the comprehension of language.
+- The necessity of the trace is irreducible. Hegel was the philosopher of irreducibility; he was already caught up in the game of symbolic catch-outs and -ups.
+- The positive sciences must repress abstract self-reflexive inquiry to pursue positive construction and expansion. The science of science is no longer logical but rather grammatological.
 
 *The History of Sexuality: An Introduction*, Volume 1. Michel Foucault.
 - It may seem upon immediate appearance that discourse on sexuality and sexual practice has been repressed into silence recently. However, we see instead a great explosino of discourse on sexuality - but such discourse has been molded differently, in ways in which we may not even recognize as sexual discursivity. The arrangement of bathrooms, families, education, and such are all sexual matters. That we would believe the former is itself an interesting ideological-epistemological-perceptory problem.
