@@ -36,6 +36,10 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
   3. It masks the absence of a profound reality;
   4. It has no relation to any reality whatsoever - it becomes its ‘own’ pure simulacrum
 - The great irony of the crisis of nuclear war is that the crisis is illegitimate, a farse, a ploy, but a narrative whose failure to recognize its illegitimacy _is what makes it successful_. In this way the tactics of deterrence are sexuated in the Lacanian sense - completeness is accomplished by a thwarting, a subversiveness.
+- Indeed the map has overtaken the territory. But what is the territory? It is not some relationship between a subject and the space it inhabits, like a region of enclosed private property, not an environmental biome in which needs are encompassed, nor is it a spatial arrangement. Rather, the territory is the negation of the repressed unconscious: the territory is open, circumscribed, the place in which production and reproduction occurs in a closed cycle without a cycle and without the exception. There is no cycle, and everything is subject to circulation. In this respect the territory is the circulation of the commodity: ultimate free sexuality, intercourse, birth, production, reproduction.
+  - Does 'surplus-value' appear in the territory?
+  - The territory is decentered from the subject. 
+- The animal is silent. But us humans manage to make them talk to us in their silence: we perform experiments on them to make their biology speak, we slaughter them to make their flesh speak; they are engaged in compulsory discourse. Thus the negativity of silence forces our utterly positive excessive disursivity to fall into a void which it must fill by its singular formula - excess. Thus we perform projection to fill the silence, to make the animals speak. What is the territory of the animal?
 
 *Das Kapital*, Marx.
 - Value is not somehow inherent or natural to a product. Rather, it is a product of human labor-power.
