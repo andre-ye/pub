@@ -11,7 +11,7 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 - When belief in an Absolute fails, a hedonistic pseudo-Absolute is instantiated in its place.
 - Sexuality is inconsistent, and this its evalation into the new Absolute fails.
 - Schelling: the female orgasm is the high point of human evolution.
-- Sloterdijk: the experience of the orgasm is ontological proof of god - we come into closest contact with teh Absolute.
+- Sloterdijk: the experience of the orgasm is ontological proof of god - we come into closest contact with the Absolute.
 - Intense sexual act as the most intense unity of Being is wrong; we need to focus on how sexuality is constituted by antagonisms.
 - This book - concerned with exploring large metaphysical questions without regressing to premodern sexualized understandings.
 - Topology - a structure which is unorientable has no consistent definitions of direction.
@@ -159,8 +159,29 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 
 ## Scholium 1.1: Buddha, Kant, Husserl
 - Husserl asserts the phenomenological reduction: existence involved in experience.
+- All of reality is captured in the phenomenological _epoche_, but the positing of the subject changes: we no longer situate ourselves as insertions into an 'out-there' exterior world, but rather it is in the here: some part of the phenomenal flow - the 'true appearance' - is what we experience as the objective reality.
+- How do we deal with the parallax view between the 'subjective' and 'objective' (scientific) readings of experience? The Buddhist subjective position of anatman asserts that self-reflection is reflection of a self from a self-less being.
+- Subjectivity emerges through the questioning of the interpellating call of the Other. What is desubjectivization? It occurs upon immediate glance as something perverse: as positing oneself directly as an instrument of the Other, an appendage without any individuation. "Let things be as they are"; "accept death if you are called to it".
+  - Partial study in the sciences seems to engage in 'perverse desubjectivization' of this sort.
+- Husserl's eidetic reduction: take an empirical object and compute the aleatoric matrix.
+- The contradiction of the psychological-empirical subject: one who thinks oneself simultaneously embedded within reality and an autonomous agent.
+- Marx's concept of alienation is the ultimate ahistoricity, something which is out of the reach of phenomenological perspective. Alienation is an essential dimension across history.
 
-Page 88
+## Scholium 1.2: Hegel's Parallax
+- "Absolute Knowing": the abandonment of the subjective agent, the "thought without a thinker"
+  - Extendable perhaps to Baudrillard's "copy without an original", "product without a producer"
+- The pure activity must coincide with the human vehicle: the idealism collides with practice. 
+- What is an indeterminate decision?
+- "Authentic philosophy is a kind of 'theoretical psychoanalysis'"; it is an existential decision. 
+- Hegel's thought as the gap between _Logic_ and _Phenomenology_.
+- The cross-cap: a structure which appears to be a consistent standard object, with an inside and an outside - but which is traversed by an intraversable gap, one inside it.
+- The gap is the 'inside': it is necessarily inconsistent, by nature, tautologically even.
+- Radical dialectical skepticism is the way to get at acquired knowledge, the properly Hegelian way. The crown of thinking is to transpose ultimate negativity into existing knowledge. The 'sacrifice of creativity' is the true sacrifice of sacrifice.
+
+## Scholium 1.3: The "Death of Truth"
+- Many people claim that truth is dead: we form echo chambers, we censor the alternative facts, fundamentalisms which disavow rational thought are gaining traction. And the caricature of deconstruction and nihilism certainly contribute to this conception too.
+
+Page 103
 
 
 
