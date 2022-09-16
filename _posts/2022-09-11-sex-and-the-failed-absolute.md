@@ -180,6 +180,7 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 
 ## Scholium 1.3: The "Death of Truth"
 - Many people claim that truth is dead: we form echo chambers, we censor the alternative facts, fundamentalisms which disavow rational thought are gaining traction. And the caricature of deconstruction and nihilism certainly contribute to this conception too.
+- 
 
 Page 103
 
