@@ -18,7 +18,9 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 
 *Absolute Recoil*, Slavoj Zizek
 - The standard liberal line is that a universality of rights allows for peaceful coexistence of different perspectives. The reproach of the colonized is that universality dissolves without residue into hegemony.  The liberal works towards universality without wounds. But from a dialectical perspective, we should look towards the liberatory potential of the wound. The transformation to the new epoch radically shifts our perspectives and faculties of knowing. Hegel: Spirit is the wound it tries to heal; the wound is self-inflicted.
-- 
+- The subject _is_ the power of negativity: the introduction of a critical gap, cut, split into the unity; the power of differentiation and tearing apart, abstraction.
+- There is no self which precedes self-alienation.
+- Translation: the gap between the original and the translation is transposed back onto the original; the original was never complete; the original is itself a broken fragment which must be supplemented and made closer towards whole unity by the translation.
 
 *Of Grammatology*, Derrida.
 - Does the translation 'ruin' the original? In fact the translation holds together the originality. Butler: "the derivative is the conditin of possibility of the original."
@@ -37,6 +39,7 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - It may seem upon immediate appearance that discourse on sexuality and sexual practice has been repressed into silence recently. However, we see instead a great explosino of discourse on sexuality - but such discourse has been molded differently, in ways in which we may not even recognize as sexual discursivity. The arrangement of bathrooms, families, education, and such are all sexual matters. That we would believe the former is itself an interesting ideological-epistemological-perceptory problem.
 
 *Simulacra & Simulation*, Jean Baudrillard.
+- "the liquidation of referentials"
 - Simulacra - a representation without a copy. The existence of a simulacra ruptures our dichotomy of real and false. Ideological institutions primarily have a vested interest in maintaining the dichotomy between real and false; thus the 'toxic excrement' of a hyperreal civilization is that irony, parody, excess, and drama become productive institutions. 
 - There are four stages of the image:
   1. It is the reflection of a profound reality;
