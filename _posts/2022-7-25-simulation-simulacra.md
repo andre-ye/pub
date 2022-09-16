@@ -38,9 +38,6 @@ Review and notes on *Simulacra and Simulation*.
   - **The Real is capital; valued by its exchange, the transcendental for the ontic, the ontic for the transcendental, the ontic for the ontic.** This forms the Mobius strip of the real. (?)
   - It may be too early to say this, but it seems like Baudrillard is a manifold of Zizek's in *Sex and the Failed Absolute*.
 
-*Let me try out an idea for size here.* When products enter into large-scale systems of exchange, they become commodities: their value in the labor that creates them becomes undifferentiated, reduced to a common substance. The fetishism of the commodity is that we become unaware of the undifferentiation even though it is the underlying logic of our exchange, and therefore mask the conditions of labor which reside within the commodity. The difference between the real and the fake, between the original and the copy, is a difference which [the substance of experience] as capital undifferentiates. We exchange [the substance of experience] routinely - we share stories, we talk, we engage on social media. It is a mass feeding and producing frenzy of this substance of experience. The 'real' experience which lies within is obscured, and maybe even vanishes. In this respect the real is suicidal, and the fake is suicidal, just as feudalism is suicidal.
-
-
 - Representation stems from the principle of the equivalence of the sign and the real
   - "the radical negation of the sign as value"
 - Successive phases of the image:
@@ -54,7 +51,7 @@ Review and notes on *Simulacra and Simulation*.
 - Disneyland - a play of illusions and phantasms which serves as explicitly false to hide that it is real.
 - The return to the double, to the copy which is and is not the original, which is lived without origin
 - If there is no origin, then is there a telos? (Donna Haraway's titular philosophical question in *Cyborg Manifesto*)
-
+- Baudrillard plays into a cruel perversion of Kantian ontology: the real is moved beneath us, and now we observe the phenomenal standing upon thin air, and we retroactively constitute the existentially justificatory noumenal; the noumenal and the phenomenal both collapse under each others' weight. We cannot isolate the process of the real, the production of the real.
 
 
 
