@@ -54,7 +54,7 @@ Review and notes on *Simulacra and Simulation*.
 - Baudrillard plays into a cruel perversion of Kantian ontology: the real is moved beneath us, and now we observe the phenomenal standing upon thin air, and we retroactively constitute the existentially justificatory noumenal; the noumenal and the phenomenal both collapse under each others' weight. We cannot isolate the process of the real, the production of the real.
 
 
-
+Page 26
 
 
 
