@@ -34,6 +34,7 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - The positive sciences must repress abstract self-reflexive inquiry to pursue positive construction and expansion. The science of science is no longer logical but rather grammatological.
 - Sin is the inversion of the natural relationship between the mind and the body. In this way the first step of the deconstructive double gesture is sin, and a sin Saussure attempts to eliminate.
 - The terms of formulation prefigure the outcome, in text and in argumentation, because all is textual in origin, in the origin of origins.
+- Psychology cannot account for the absence of the signifier, and certainly not the absence of the signified; writing is the name for both of these absences.
 
 *The History of Sexuality: An Introduction*, Volume 1. Michel Foucault.
 - It may seem upon immediate appearance that discourse on sexuality and sexual practice has been repressed into silence recently. However, we see instead a great explosino of discourse on sexuality - but such discourse has been molded differently, in ways in which we may not even recognize as sexual discursivity. The arrangement of bathrooms, families, education, and such are all sexual matters. That we would believe the former is itself an interesting ideological-epistemological-perceptory problem.
