@@ -21,6 +21,10 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - The subject _is_ the power of negativity: the introduction of a critical gap, cut, split into the unity; the power of differentiation and tearing apart, abstraction.
 - There is no self which precedes self-alienation.
 - Translation: the gap between the original and the translation is transposed back onto the original; the original was never complete; the original is itself a broken fragment which must be supplemented and made closer towards whole unity by the translation.
+- The modification is not in opposition to the original; rather, the original is a fragment of a totality, the totality being the combinatory matrix of permutations. The objective of the analysis is not to reconstruct the full matrix, but rather to identify the traumatic core, the immanet antagonism which holds together the structure of the matrix, the aleatoric of the aleatoric matrix.
+- Truth in the quantum superposition of waves: truth not in each one nor in the mere totality, but rather in the way in which treuth interacts with each other, inthe self-attention matrix, the permutation calculation.
+- Absolute Recoil - from Hegel's _absoluter Gegenstoss_: a withdrawal that creates what it withdraws from.
+-     
 
 *Of Grammatology*, Derrida.
 - Does the translation 'ruin' the original? In fact the translation holds together the originality. Butler: "the derivative is the conditin of possibility of the original."
