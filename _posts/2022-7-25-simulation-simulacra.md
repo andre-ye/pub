@@ -52,7 +52,12 @@ Review and notes on *Simulacra and Simulation*.
 - The return to the double, to the copy which is and is not the original, which is lived without origin
 - If there is no origin, then is there a telos? (Donna Haraway's titular philosophical question in *Cyborg Manifesto*)
 - Baudrillard plays into a cruel perversion of Kantian ontology: the real is moved beneath us, and now we observe the phenomenal standing upon thin air, and we retroactively constitute the existentially justificatory noumenal; the noumenal and the phenomenal both collapse under each others' weight. We cannot isolate the process of the real, the production of the real.
-
+- Circulation becomes de-politicized. We are losing the violence; we are pacified.
+- Simulation can last indefinitely: it is not 'true' power in the sense of Foucault or Nietzsche, but rather a pure flux of social demand; pure circulation.
+- What does it mean to capture a representation as if the process of capturing hadn't occurred? A paradoxical formula which only obeys the logic of simulation. We experience an excess of meaning, the pleasure from the surplus. What we always see is not the undisturbed real, the 'pure' noumenal real, but rather what it never was. 
+- Control is not exercised transparently: this presupposes an objective space. It is no longer us which watches the television, but rather the television which watches us. It is impossible for us to locate where we are in the mess of models, statistical sociality, the real. There is no more violence, but only information.
+- Systems which expand, such as the nuclear explosion, are archaic. What we experience now are systems which _implode_. Spatial, nuclear models do not have a teleology; the truth is the model. Poles recycle and consume each other. The implosive behavior of the poles signifies the end of the dialectic.
+- 
 
 Page 26
 
