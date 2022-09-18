@@ -39,9 +39,12 @@ Dedicated to listing out in brief (or maybe not so brief...) ideas from interest
 - Sin is the inversion of the natural relationship between the mind and the body. In this way the first step of the deconstructive double gesture is sin, and a sin Saussure attempts to eliminate.
 - The terms of formulation prefigure the outcome, in text and in argumentation, because all is textual in origin, in the origin of origins.
 - Psychology cannot account for the absence of the signifier, and certainly not the absence of the signified; writing is the name for both of these absences.
+- Principal to Saussure's thesis is the arbitrariness of the sign. This suggests a naturalization of the phonic and places wriitng as a durable institution. Yet we must challenge writing as 'image', and the derived arbitrariness of the image/sign. Yet Saussure does this himself: he has to work with incomplete ideas of the status of writing as an image or representation of the spoken language.
+- 
 
 *The History of Sexuality: An Introduction*, Volume 1. Michel Foucault.
 - It may seem upon immediate appearance that discourse on sexuality and sexual practice has been repressed into silence recently. However, we see instead a great explosino of discourse on sexuality - but such discourse has been molded differently, in ways in which we may not even recognize as sexual discursivity. The arrangement of bathrooms, families, education, and such are all sexual matters. That we would believe the former is itself an interesting ideological-epistemological-perceptory problem.
+- The liberal myth is knowledge is power. Foucault: power is knowledge, control over the productions of knowledge, self-identification with the production of knowledge.
 
 *Simulacra & Simulation*, Jean Baudrillard.
 - "the liquidation of referentials"
