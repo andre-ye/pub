@@ -180,9 +180,44 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 
 ## Scholium 1.3: The "Death of Truth"
 - Many people claim that truth is dead: we form echo chambers, we censor the alternative facts, fundamentalisms which disavow rational thought are gaining traction. And the caricature of deconstruction and nihilism certainly contribute to this conception too.
-- 
+- The Holocaust was, as a matter of truth, false - wrong, bad, flawed. Even if a compelling narative is put fort which suggests that industry is dominated by Jews. The most efficient lies are those which operate under unquestioned axiomatic truth, such as in statistics. Yet this is put in service of a lie. The standpoint of Nazism is false.
+  - It is not relativist to suggest that human history is always told from a certain standpoint; but some are more true than others. Some capture the dynamics of social totality more completely than others. 
+- Those that wax nostalgic for a truthw hich once prevailed are wistful for a time of ideological hegemony: the distintegration of the big-T Truth into local truths is the fragmentation of ruling ideological hegemony.
+- "Better injustice than disorder"
+- Universality and partiality/particularity do not exclude each other: they complement each other.
 
-Page 103
+## Theorem 2: Sex as Our Brush with the Absolute.
+
+> The only way for us, humans, caught in the parallax gap, to break out of it is through the experience of sexuality which, in its very failure to reach its goal, enables us to touch the dimension of the Absolute.
+
+- Lacan's formulas of sexuation have a congruent structure with Kant's antimonies of pure reason: Lacan's formulas are antimonies of pure sexuation.
+- Kant's antimonies: applying transcendental reasoning to the noumenal yields irresolvable antimonies.
+- The mathematical antimonies concern immanent nature: dynamic antimonies concern the exception to the universal order. And for Lacan, the masculine is defined as universality and the feminine is constitutive exception. This occurs in symbolic constitution: the universality needs the exception. If there is no exception, the order is non-all. "Exception makes the rule".
+- The impossible can only be inscribed through failure: it is a purely negative thing, it is the sublime.
+- Jouissance - excessive enjoyment, beyond self-interest and the pleasure-principle. Freud - death drive. 
+- Sexual passion inserts a violent cut into our daily life. Sex is a great competitor, a basic experience of metaphysical experience.
+- Sexuality describes immanent antagonism.
+- Sexual enjoyment is not only destined to fail, but also an enjoyment of failure.
+- Rythmic repetition is a certain form of eroticization.
+- The noumenal sexual thing can only be reached through a Kantian sublime: negatively painted through failure.
+- In the sexual calculus, the erotic is a close stone's throw from the ridiculous: the desublimated observer sees the sexual act as a bit ridiculous.
+- Man is universal - "am I really a man?" Woman is exception - "I am woman, but do not limit me as such." Thus sexual difference is a second-order differential: it is a difference between two modes of difference. 
+- Object-oriented ontology: subject is one of the objects.
+- What is reality ultimately composed of? Reality is not-One: the impossibility of being One is the immanent precondition.
+- The assertion of self-identity is an assertion of difference itself: the difference which cuts across a thing.
+- The shift from Kant to Hegel: from epistemological antagonisms to antagonisms immanent to reality. Not a pre-critical metaphysics. We include subjective distortions into objective processes. It is not that subjective antimonies simply reflect. 
+- Sex is accessible only as the always-missed point. Sexuality inscribes itself within the cuts and gaps of the symbolic.
+- Sexuality is ontologically relevant beyond traditional precritical oppositions - yin/yang, light/dark, etc.
+- The One exists out of its own impossibility; One is contingently actualized.
+- "forgive them, for they know not what they do" - the aleatoric contingent matrix of reality. Conspiracy assumes ultimate power. God is a puzzle for even himself.
+- Sexuality is the gap filled in by fantasy.
+- A decision always retroactively posits its own reasons - politics can never be settled through rational debate. Politics is unified by the immanent gap and impossibility which constitutes it.
+- Copulation cannot stand by itself: it needs partial drives.
+- There is never just two but $$1 + 1 + a$$; the third element is _difference as such_. Kierkegaard - all people are officers, maids, or chimney weeps. Sexual difference as real. The formula for sexuation is not M/F but M/F/+.
+  - There is no class antagonism without a third term - materialization of the antagonistic difference itself.
+- Sexual difference is entirely internal to the Symbolic's immanet point of impossibility. Balzac: two naked children (a boy, a girl). One asks, "but how will we know who is the boy and who is the girl?". We are naked only under our own dress. The difference acquires meaning through symbolic status. All perception is mediated through the symbolic universe.
+
+Page 136
 
 
 
