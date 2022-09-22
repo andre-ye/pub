@@ -59,8 +59,19 @@ Review and notes on *Simulacra and Simulation*.
 - Systems which expand, such as the nuclear explosion, are archaic. What we experience now are systems which _implode_. Spatial, nuclear models do not have a teleology; the truth is the model. Poles recycle and consume each other. The implosive behavior of the poles signifies the end of the dialectic.
 
 ## History: A Retro Scenario
-pg. 43
+- What is history? It is not simply what happened before: that is merely a temporal relation, empty, a formalism of meaning. What gives history meaning is how we understand what happened, what we feel, what we infer and abduce. 
+- Cinema is one of the most popular and formative understandings of history: captured, resurrected, transmogrified into a retro scenario.
+- "History is our lost referential, that is to say our myth" it is retroactively constituted: we congradulate ourselves on the awareness of the concept captured by the representation, in the spirit of 'never forget', 'always understand'. But amidst the self-congradulation is an obsession with surfaces and the death of referentials.
+- The death of the referentials constitutes a retroactive irreversible constitutive trauma: the representation is not political. _"History thus made its triumphal entry into cinema posthumously."_
+- It is not a matter of cinema being proofund or of high quality, of spectacular production proportion, but rather that we are left indifferent: it has happened, it is depoliticized in front of the cinematic screen.
+- Films build myths upon myths, in the process of never forgetting we have remembered a myth.
+- Cinema asymptotically is approaching the absolute real: "terrorism is always that of the real".
+- Hyperreality: absolute correspondence with oneself.
+- To retroactive the original myth: to make a silent film more perfectly, more original, than the original; cinema aims to revive.
+- History is perhaps the last great myth: the possibility of an objective sequence of events, of high-resolution rendering. As cinema embarks upon this task it produces superresolutions of retroactively blurred images.
 
+## Holocaust
+Page 49
 
 
 
