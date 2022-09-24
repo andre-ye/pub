@@ -57,6 +57,7 @@ Review and notes on *Simulacra and Simulation*.
 - What does it mean to capture a representation as if the process of capturing hadn't occurred? A paradoxical formula which only obeys the logic of simulation. We experience an excess of meaning, the pleasure from the surplus. What we always see is not the undisturbed real, the 'pure' noumenal real, but rather what it never was. 
 - Control is not exercised transparently: this presupposes an objective space. It is no longer us which watches the television, but rather the television which watches us. It is impossible for us to locate where we are in the mess of models, statistical sociality, the real. There is no more violence, but only information.
 - Systems which expand, such as the nuclear explosion, are archaic. What we experience now are systems which _implode_. Spatial, nuclear models do not have a teleology; the truth is the model. Poles recycle and consume each other. The implosive behavior of the poles signifies the end of the dialectic.
+- Deterrence dominates: war becomes a simulacrum. A simulacrum which burns the flesh all the same, but which loses ideological seriousness and the reality of the stakes. But the sacrifices continue - and this makes it all the more sinister.
 
 ## History: A Retro Scenario
 - What is history? It is not simply what happened before: that is merely a temporal relation, empty, a formalism of meaning. What gives history meaning is how we understand what happened, what we feel, what we infer and abduce. 
@@ -71,7 +72,13 @@ Review and notes on *Simulacra and Simulation*.
 - History is perhaps the last great myth: the possibility of an objective sequence of events, of high-resolution rendering. As cinema embarks upon this task it produces superresolutions of retroactively blurred images.
 
 ## Holocaust
-Page 49
+- Forgetting extermination in the physical dimension is part of the broader campaign of extermination: the event becomes unlocatable and inaccessible to us. The forgetting is dangerous: it is supplemented by artificial memory: a restaging of extermination. The re-enactment of the extermination becomes more forgetful, cold, and exterminatory than the physicality of the extermination it documents.
+
+> One no longer makes the Jews pass through the crematorium or the gas chamber, but through the sound track and image track, through the universal screen and the microprocessor.
+
+- Forgetting is achieved in retro: in the weeping of never forget, extermination is not held captive in our memories but rather was always already reproducing itself - in the form of supposed exorcism.
+- Media is argued to be a site of collective consciousness raising. But rather it is a medium of deterrence: the Holocaust is primarily a televised object, one revives the cold body with ice - numbing, deterring. An eternal cold war, a new form of war.
+- Cinema vs TV: the cinema still retains the residue of the double; the TV is merely a terminal, a conductor; "you are the screen, and the TV watches you": the TV passes directly through us like a tape, _not an image_. It is the always-already formation of myth.
 
 
 
