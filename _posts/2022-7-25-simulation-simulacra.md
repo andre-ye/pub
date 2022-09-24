@@ -80,7 +80,8 @@ Review and notes on *Simulacra and Simulation*.
 - Media is argued to be a site of collective consciousness raising. But rather it is a medium of deterrence: the Holocaust is primarily a televised object, one revives the cold body with ice - numbing, deterring. An eternal cold war, a new form of war.
 - Cinema vs TV: the cinema still retains the residue of the double; the TV is merely a terminal, a conductor; "you are the screen, and the TV watches you": the TV passes directly through us like a tape, _not an image_. It is the always-already formation of myth.
 
-
+## The China Syndrome
+pg. 53
 
 
 
