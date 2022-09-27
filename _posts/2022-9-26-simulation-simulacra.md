@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simulacra and Simulation, Baudrillard (*)
-date: July 25, 2022
+date: September 26, 2022
 topic: Review
 ---
 
@@ -81,8 +81,23 @@ Review and notes on *Simulacra and Simulation*.
 - Cinema vs TV: the cinema still retains the residue of the double; the TV is merely a terminal, a conductor; "you are the screen, and the TV watches you": the TV passes directly through us like a tape, _not an image_. It is the always-already formation of myth.
 
 ## The China Syndrome
-pg. 53
+- The Holocaust became a televised event, a cold substitutive extermination
+- TV and general information are a formal and topologically catastrophic form: TV and the nuclear are the same in character - the heat boils into cold deterrence.
+- Nothing resembles the control HQ of a nuclear power station than the television studio.
+- The China Syndrome - confusion of cause and effect, of causality.
+- The chain reaction of the nuclear: the real is swallwoed, consumed: in continuous implosion.
+- Explosion is our hopeful promise - for destruction to be self-evident.
+- All are fascinated by the creation of spectacle by media. And indeed today all spectacle is created by the media.
+- The logic of the simulacra is the precession of the model.
+- Events no longer have meaning because they were preceded by the model.
+- The simulation of nuclear catastrophe prepares and embeds the subject with the ideological metaphysics of fission and absolute security, a game theoretic-equilibrium formed by universal deterrence.
 
+> "The equilibrium of terror rests on the eternal deferral of the atomic clash."
+
+- The only way to mitigate the ssupension of deterrence is to make the catastrophe arrive, to reproduce the real. This is what terrorism is occupied with.
+
+## Apocalypse Now
+Page 59
 
 
 
