@@ -216,10 +216,22 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 - There is never just two but $$1 + 1 + a$$; the third element is _difference as such_. Kierkegaard - all people are officers, maids, or chimney weeps. Sexual difference as real. The formula for sexuation is not M/F but M/F/+.
   - There is no class antagonism without a third term - materialization of the antagonistic difference itself.
 - Sexual difference is entirely internal to the Symbolic's immanet point of impossibility. Balzac: two naked children (a boy, a girl). One asks, "but how will we know who is the boy and who is the girl?". We are naked only under our own dress. The difference acquires meaning through symbolic status. All perception is mediated through the symbolic universe.
+- Substance to Subject: looking for a substantial essence behind the veil of appearances to realizing that there is nothing behind it and what is put there is what it has already put there; the nothing is _positive_; the void which is subject. 
+- From Plato: $$\neg$$ everything is appearance; but rather that essence is appearance as appearance: the gap between appearance and essence is transposed into appearance itself. Being, Essence, Appearance - another Hegelian triad.
+- The limit which separates the infinite from the finite is immanent to the finite: an this infinite may just be this limit.
+- The paradox of qdifferential calculus: teh relationship remains even though quantity is reduced to zero
+- What divides the sexes is not its relative difference but its difference from itself; its immanent antagonism. Lacan: the only signifier of sexual difference is $$S_1$$: the feminine position is that of excess. Excess/surplus/+ precedes  the thing with which with respect to it is a surplus/excess. 
+  - We obtain such relationships because we are not dealing with self-identical terms but rather with identity and difference: the excess is *difference as such*.
+  - Man is the only gender and woman is the first figure of transgender.
+- With Lacan, the structure is marred by a fundamental axiomatic imbalance, asymmetry: "a short-circuit between the universal andt eh particular"; sexual difference is the difference which defines the human sexuation itself.
+- Particularity does not prove universality, but it fills the gap in it; masculine universality and feminine particularity.
+- The excess, the negative container, the signifier which demonstrates the lack of the signified:
+  - God embodies our ignorance of causality.
+  - Flogiston
+  - "Asiatic mode of production"
+  - "post-industrial society"
 
-Page 136
-
-
+Page 144
 
 
 
