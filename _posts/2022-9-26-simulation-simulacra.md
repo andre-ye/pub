@@ -97,7 +97,11 @@ Review and notes on *Simulacra and Simulation*.
 - The only way to mitigate the ssupension of deterrence is to make the catastrophe arrive, to reproduce the real. This is what terrorism is occupied with.
 
 ## Apocalypse Now
-Page 59
+- One revisits war in cinema. The war in Vietnam is a baroque dream of napalm; it is power already filming itself.
+- There is no consciousness-raising: it is retroactive megalomania, how is the horror of the film possible? 
+- The war itself and the film are "cut from the same cloth", the film is part of war; the Americans won the cinematic battle.
+- Cinema is a phase of interminable war.
+- The disappearance of the separation between the subject and the camera is no longer a moral one, but one of the circularity and impermanence of destruction and production: the pharmakon in a Hegelian infinite.
 
 
 
