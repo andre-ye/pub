@@ -230,10 +230,14 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
   - Flogiston
   - "Asiatic mode of production"
   - "post-industrial society"
+- Man is not-woman, but woman is not not-man: woman's radical negativity is more intense. 
+- Traumatic loss of the subject is positive: but when this positivity itself is claimed, then the subject is deprived of loss itself as a structuring force.
+- The feminine subject logically precedes the male subject as its moment of constitution.
+- "Absolute knowing": not knowing everything, but placing not-knowing as a feature of knowing itself. Reality is incomplete, ontologically thwarted, unstable. 
+- Absolute knowing is subjectively mediated, but it is not expressive of the subject's inner truth - this is instead reproduced by knowledge which reproduces objective facts.
+- The Freudian unconscious has the structure of a Kierkegaardian apostle - it is the witness of a truth which is deeply impersonal, an organic body kidnapped by truth, an inscribing surface, a vector of transmission.
 
-Page 144
-
-
+Page 148
 
 
 
