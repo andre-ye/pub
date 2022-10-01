@@ -103,6 +103,13 @@ Review and notes on *Simulacra and Simulation*.
 - Cinema is a phase of interminable war.
 - The disappearance of the separation between the subject and the camera is no longer a moral one, but one of the circularity and impermanence of destruction and production: the pharmakon in a Hegelian infinite.
 
+## The Beaubourg Effect: Implosion and Deterrence
+- Enigma of flux and signs, games of mass simulation: the black monolith in *2001*. Immense convection and circulation.
+- An atmosphere of deterrence and implosive power radiates around the Pompidou Center.
+- Almost all social relations are structured in the sapce of deterrence.
+- The Beauborg is the figure of a culture crushed by its own weight, atomized, nuclear.
+
+Page 64
 
 
 
