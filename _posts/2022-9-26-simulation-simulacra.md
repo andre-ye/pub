@@ -108,11 +108,10 @@ Review and notes on *Simulacra and Simulation*.
 - An atmosphere of deterrence and implosive power radiates around the Pompidou Center.
 - Almost all social relations are structured in the sapce of deterrence.
 - The Beauborg is the figure of a culture crushed by its own weight, atomized, nuclear.
-
-Page 64
-
-
-
+- "an aleatory redistribution of destinies" - the universe of Borges
+- The masses salivate and mourn over the death of a repulsed culture. (Is Baudrillard an elitist?) They rush towards Baudrillard as they rush towards disaster scenes.
+- Perfect circulatory operator
+- Implosive mass. Implosion is cybernetic and combinatory.
 
 
 
