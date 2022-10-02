@@ -236,8 +236,30 @@ Review and notes on *Sex and the Failed Absolute*, Slavoj Zizek
 - "Absolute knowing": not knowing everything, but placing not-knowing as a feature of knowing itself. Reality is incomplete, ontologically thwarted, unstable. 
 - Absolute knowing is subjectively mediated, but it is not expressive of the subject's inner truth - this is instead reproduced by knowledge which reproduces objective facts.
 - The Freudian unconscious has the structure of a Kierkegaardian apostle - it is the witness of a truth which is deeply impersonal, an organic body kidnapped by truth, an inscribing surface, a vector of transmission.
+- Sexuality is derailed from the beginning, not only in animals but in vegetation.
+- Human sexuality is not the exception to nature, but the point in which sexual impossibility appears as such.
+  - Animals simply don't know
+  - Humans know they don't know
+  - Infantile sexuality - the search for what cannot be known.
+- Technology is liberation through terror.
+- Lacan - Two is never Two but One and its void.
+- To be religious, god must be a masturbator, spilling cosmic sperms wandering anti-teleologically throughout space, forming living organisms through contingent hookups.
+- Passage is not only progression but also failure.
+- The Singularity - man overcoming the constitutive failure. We lose our subjectivity and distance from the external. Most of our achievements are rooted in our limitations. When we remove obstacle, we lose what it is an obstacle to.
+- Marx's fundamental mistake: a higher social order is possible. But what is missed is that the condition of impossibility is itself the condition of possibility; to remove the contradictions of capitalism is to remove productivity; Marxian Communism is a fantasy inherent to capitalism itself. 
+- Posthuman singularity - when we wave away our limitation from the Absolute we lose the Absolute itself.
+- We must accept that 'human nature' is changing, and open ourselves up to the contingency of change.
+- Five steps in the evolution of sexuality:
+  1. asexual reproduction
+  2. sexual difference posited in itself
+  3. sexual difference posited for itself
+  4. sexual difference redoubled in the symbolic order
+  5. disintegration of both levels; asexual reproduction cancels sexuality
 
-Page 148
+## Corollary 2: Sinuosities of Sexualized Time
+p. 162
+
+Page 14
 
 
 
