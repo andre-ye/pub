@@ -113,6 +113,7 @@ Review and notes on *Simulacra and Simulation*.
 - Perfect circulatory operator
 - Implosive mass. Implosion is cybernetic and combinatory.
 
+> Baudrillard’s response to the Beaubourg, as it is called, argues that this government sponsored building designed to house modern art and make it accessible to the general populace (the masses as they are sometimes called) functions in fact to neutralize and domesticate the creative and political power of modern art itself.  It contains it, renders it transparent, and in effect prevents it from developing any further.  The artwork was always, in Baudrillard’s argument, marked by the surprise of its event, its unaccountability, and the ways in which it is capable of provoking thought and even reorganizing the spaces designed for its exhibition.  The Beaubourg functions to render these forces redundant.  They “implode” (the folding in of edges, the sucking inwards of breath or air) on themselves in this space, which he compares metaphorically with a black hole.  The Beaubourg is a site, then, not of revolutionary modern art but of “involution” (making more complicated and endlessly self-referential).  Baudrillard puts it another way: the Beaubourg is not simply a gallery; rather it is a supermarket—or hypermarket—of culture.  Baudrillard’s style is interesting too.  He has absorbed the vocabulary of the Centre Pompidou’s propaganda and turned it against itself. [Source](https://courses.nus.edu.sg/course/elljwp/beaubourgeffect.htm)
 
 
 
